@@ -1,5 +1,5 @@
 # Ignore everything except proj_docs
-*
+/*
 !proj_docs/
 !.gitignore
 !.github/
